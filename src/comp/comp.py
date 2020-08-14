@@ -54,6 +54,7 @@ print("Name hyphen age:")
 e = [f'{h.name}-{h.age}' for h in humans]
 print(e)
 
+
 # Write a list comprehension that creates a list of tuples containing name and
 # age, for example ("David", 31), for everyone between the ages of 27 and 32,
 # inclusive.
